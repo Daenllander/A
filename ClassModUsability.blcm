@@ -7,7 +7,7 @@
 		</profiles>
 	</head>
 	<body>
-		<category name="Class Mod Usability">
+		<category name="Class Mod Usability" MUT="true">
 		<comment>I made this to easily switch which character can use EVERY class mod, to be used with Abahbob's PythonSDK and skill randomizer</comment>
 			<category name="Zero">
 				<code profiles="default">set ClassModDefinition RequiredPlayerClass PlayerClassIdentifierDefinition'GD_PlayerClassId.Assassin'</code>
